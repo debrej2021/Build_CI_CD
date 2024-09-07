@@ -5,7 +5,7 @@ import requests
 # Replace with your GitHub username and repository
 GITHUB_USERNAME = "debrej2021"
 REPOSITORY_NAME = "Build_CI_CD"
-ACCESS_TOKEN = "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"  # Optional: Use a personal access token if needed
+ACCESS_TOKEN = "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"  # Optional: Use a personal access token if needed
 
 # GitHub API URL for commits
 COMMITS_URL = f"https://api.github.com/repos/{GITHUB_USERNAME}/{REPOSITORY_NAME}/commits"
